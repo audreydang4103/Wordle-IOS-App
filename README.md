@@ -22,5 +22,5 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-<img src="https://i.imgur.com/ALn0yVw.gif" alt="Video Walk-Through">
+<img src="https://i.imgur.com/ALn0yVw.gif" width="400" height="800" alt="Video Walk-Through">
 
