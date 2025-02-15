@@ -1,10 +1,5 @@
-# Project 2 - *WORDLE*
-
-Submitted by: **Audrey Dang**
 
 **WORDLE** is an app that allows users to challenge their vocabulary and deduction skills by guessing a word one letter at a time, following the rules of the classic Wordle game.
-
-Time spent: 5 hours spent in total
 
 ## Required Features
 
