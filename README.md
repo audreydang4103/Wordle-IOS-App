@@ -5,6 +5,9 @@
 
 The following **required** functionality is completed:
 
+- [x] App displays a keyboard on the screen
+- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [x] User can play a basic version of Wordle, with different goal words each time
 - [x] User can change the number of letters per row (the length of the goal word)
 - [x] User can change the numbers of rows on the board (how many guesses allowed)
 - [x] User can select a new themed set to pull the goal word from
